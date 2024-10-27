@@ -1,0 +1,15 @@
+.container{
+    background-color: beige;
+    font-family: 'inknut antiqua';
+}
+.form{
+ padding: 10px;   
+}
+.form label{
+    font-weight:bold;
+    line-height: 50px;
+}
+input[type="submit"]{
+    width: 150px;
+    height: 35px;
+}
